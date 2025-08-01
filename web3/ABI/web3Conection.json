@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_amount",
+						"type": "uint256"
+					}
+				],
+				"name": "changeNumber",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "number",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Web3Conection.sol": "Web3Conection"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Web3Conection.sol": {
+			"keccak256": "0xc360b4a318c30816e5d8b796a82f9923c35ddd789ce72fa87382ae01e50958be",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8d6e080ed822aaebec173d180cd63868d3bf2308e1cdff8e1962084d904cd01b",
+				"dweb:/ipfs/QmW8FC3XB7QoVGkxovzunnUSq3G7JrRRRwzLF9QgbLfB6C"
+			]
+		}
+	},
+	"version": 1
+}

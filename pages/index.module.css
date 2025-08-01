@@ -1,0 +1,104 @@
+
+.background {
+  background-color: #02317e;
+}
+
+.titulo {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: 'Open Sans', sans-serif;
+    padding-top: 30px;
+    text-align: center;
+    color: #FFFFFF; /* Opcional */
+  }
+
+.centralizado{
+  text-align:center;
+}
+
+.flexbasic {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.flex2 {
+  padding-top: 20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex3 {
+  padding-bottom:40px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  padding-left: 15px;
+}
+  
+.cardcontainer {
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom:1000px;
+  border-radius: 40px 40px 0 0; /* Rounded corners on top */
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.textchanger {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: 'Open Sans', sans-serif;
+  color: blue;
+}
+.textchangerwhite {
+  color: white;
+}
+
+
+.block {
+  color: white;
+}
+
+.chain {
+  color: #94bcff;
+}
+
+/* Estilos adicionales para el tamaño, fuente, etc. */
+.block, .chain {
+  font-weight: bold;
+  font-size: 45px;
+  font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    text-align: center;
+
+}
+.container {
+  padding-top: 7px;
+  padding-bottom: 3px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
