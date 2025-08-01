@@ -102,5 +102,5 @@ En MetaMask se pueden visualizar las transacciones realizadas y las comisiones p
 
 ## Notas
 
-- Asegúrate de tener MetaMask configurado en la BNB Chain TestNet.
+- Asegúrese de tener MetaMask configurado en la BNB Chain TestNet.
 - El contrato debe estar correctamente desplegado y la página web conectada para realizar las transacciones.
